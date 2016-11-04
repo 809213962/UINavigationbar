@@ -2,7 +2,7 @@
 //  UINavigationBar+ST.h
 //  STNavigationBar
 //
-//  Created by 沈兆良 on 16/5/3.
+//  Created by 林理刚 on 16/10/3.
 //  Copyright © 2016年 stebean. All rights reserved.
 //
 
