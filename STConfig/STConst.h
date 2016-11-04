@@ -2,7 +2,7 @@
 //  STConst.h
 //  STPhotoBrowser
 //
-//  Created by https://github.com/STShenZhaoliang/STPhotoBrowser.git on 16/1/15.
+//  Created by 林理刚 on 16/10/15.
 //  Copyright © 2016年 ST. All rights reserved.
 //
 
