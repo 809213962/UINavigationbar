@@ -2,8 +2,8 @@
 //  UINavigationBar+ST.m
 //  STNavigationBar
 //
-//  Created by林理刚  on 16/10/3, Copy LTNavigationBar
-//  Copyright © 2016年 stebean. All rights reserved.
+//  Created by lin on 16/10/3, Copy LTNavigationBar
+//  Copyright © 2016年 林理刚. All rights reserved.
 //
 
 #import "UINavigationBar+ST.h"
