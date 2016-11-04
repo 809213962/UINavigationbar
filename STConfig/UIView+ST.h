@@ -2,8 +2,8 @@
 //  UIView+ST.h
 //  STPhotoBrowser
 //
-//  Created by 林理刚 on 16/10/15.
-//  Copyright © 2016年 ST. All rights reserved.
+//  Created by lin on 16/10/15.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
